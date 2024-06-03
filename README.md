@@ -5,4 +5,4 @@
 2. Muhammad Hilmi Dzaki Wismadi - 22/497591/TK/54539
 
 ## Notion
-(https://www.notion.so/Retail-Cashier-Simulation-0149fd7dd3154cf2bb9ee435ea585b3e?pvs=4)
+[](https://www.notion.so/Retail-Cashier-Simulation-0149fd7dd3154cf2bb9ee435ea585b3e?pvs=4)
